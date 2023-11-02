@@ -8,7 +8,8 @@ export default {
         main: resolve(__dirname, 'index.html'),
         menu: resolve(__dirname, 'menu.html'),
         japane: resolve(__dirname, 'japane.html'),
-        chine: resolve(__dirname, 'chine.html')
+        chine: resolve(__dirname, 'chine.html'),
+        basket: resolve(__dirname, 'basket.html')
         
       }
     }
