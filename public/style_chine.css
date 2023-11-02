@@ -1,6 +1,11 @@
 body{
     background-color: black;
 }
+a {
+  text-decoration: none;
+  accent-color: white;
+  color: white;
+}
 .slide-16-9-5,
 .slide-16-9-5 * {
   box-sizing: border-box;
